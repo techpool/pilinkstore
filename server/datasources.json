@@ -4,13 +4,12 @@
     "connector": "memory"
   },
   "mongosource": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "mongodb://localhost:27017/pilinkstore",
+    "host": "ds159670.mlab.com",
+    "port": 59670,
     "database": "pilinkstore",
-    "password": "",
-    "name": "",
-    "user": "",
+    "password": "Surya-23121994",
+    "name": "mongosource",
+    "user": "techpool",
     "connector": "mongodb"
   }
 }
